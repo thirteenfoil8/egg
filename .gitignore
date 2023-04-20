@@ -3,7 +3,7 @@ cert.crt
 key.key
 .env.prod.db
 alembic.ini
-src/uselessmachine/config/client.json
+src/egg/config/client.json
 data
 
 # Byte-compiled / optimized / DLL files

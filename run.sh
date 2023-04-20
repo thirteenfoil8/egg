@@ -2,4 +2,4 @@
 
 docker build . -t my_app
 
-docker compose up -d
+docker compose up 
